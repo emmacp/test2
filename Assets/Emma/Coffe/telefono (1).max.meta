@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: faba12847ae57d54d9d56ec2e322018a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bolita A D
+    100002: Bolita A D 1
+    100004: Bolita D D
+    100006: Bolita D I
+    100008: Cable
+    100010: Ducha
+    100012: Line01
+    100014: Numeros
+    100016: Rueda A D
+    100018: Rueda A I
+    100020: Rueda D D
+    100022: Rueda D I
+    100024: //RootNode
+    400000: Bolita A D
+    400002: Bolita A D 1
+    400004: Bolita D D
+    400006: Bolita D I
+    400008: Cable
+    400010: Ducha
+    400012: Line01
+    400014: Numeros
+    400016: Rueda A D
+    400018: Rueda A I
+    400020: Rueda D D
+    400022: Rueda D I
+    400024: //RootNode
+    2100000: 7 - Default
+    2100002: 8 - Default
+    2100004: 2 - Default
+    2100006: 9 - Default
+    2300000: Bolita A D
+    2300002: Bolita A D 1
+    2300004: Bolita D D
+    2300006: Bolita D I
+    2300008: Ducha
+    2300010: Numeros
+    2300012: Rueda A D
+    2300014: Rueda A I
+    2300016: Rueda D D
+    2300018: Rueda D I
+    2300020: //RootNode
+    3300000: Bolita A D
+    3300002: Bolita A D 1
+    3300004: Bolita D D
+    3300006: Bolita D I
+    3300008: Ducha
+    3300010: Numeros
+    3300012: Rueda A D
+    3300014: Rueda A I
+    3300016: Rueda D D
+    3300018: Rueda D I
+    3300020: //RootNode
+    4300000: Telefono
+    4300002: Rueda D D
+    4300004: Ducha
+    4300006: Numeros
+    4300008: Bolita A D
+    4300010: Bolita D D
+    4300012: Rueda A I
+    4300014: Bolita A D
+    4300016: Rueda D I
+    4300018: Bolita D I
+    4300020: Rueda A D
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
